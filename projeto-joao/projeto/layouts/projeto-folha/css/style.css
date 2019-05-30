@@ -1,0 +1,83 @@
+/* Geral */
+
+#main {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+/* Linha */
+/* img{
+    width: 245px;
+} */
+.row {
+    clear: both;
+}
+.span{
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+/* Colunas */
+
+.bloco3 {
+    width: 15%;
+    float: left;
+}
+
+.bloco4 {
+    width: 33.33333%;
+    float: left;
+}
+
+.bloco9 {
+    width: 85%;
+    float: left;
+}
+
+.bloco12 {
+    width: 100%;
+    float: left;
+}
+
+/* Alturas */
+
+.altura1 {
+    height: 200px;
+}
+
+.altura2 {
+    height: 100px;
+}
+
+.altura3 {
+    height: 600px;
+}
+
+/* Cores */
+
+.laranja {
+    background-color: orange;
+}
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.cinza {
+    background-color: grey;
+}
+.cinza1 {
+    background-color: rgb(46, 45, 45);
+}
+.cinza2 {
+    background-color: rgb(22, 22, 22);
+}

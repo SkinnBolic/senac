@@ -1,0 +1,77 @@
+/* Encapsulador Geral */
+
+#main {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+/* Linha */
+
+.row {
+    clear: both;
+}
+
+/* Colunas */
+
+.bloco2 {
+    width: 16.6667%;
+    float: left;
+}
+
+.bloco5 {
+    width: 41.6667%;
+    float: left;
+}
+
+.bloco6 {
+    width: 50%;
+    float: left;
+}
+
+.bloco12 {
+    width: 100%;
+    float: left;
+}
+
+/* Cores */
+
+.vermelho{
+    background-color: red;
+}
+
+.laranja{
+    background-color: orange;
+}
+.verde{
+    background-color: green;
+}
+.cinza{
+    background-color: grey;
+}
+.rosa{
+    background-color: pink;
+}
+.roxo{
+    background-color: purple;
+}
+.preto{
+    background-color: black;
+}
+.azul{
+    background-color: blue;
+}
+.amarelo{
+    background-color: yellow    ;
+}
+
+/* Alturas */
+
+.altura1{
+    height: 200px;
+}
+.altura2{
+    height: 300px;
+}
+.altura3{
+    height: 400px;
+}

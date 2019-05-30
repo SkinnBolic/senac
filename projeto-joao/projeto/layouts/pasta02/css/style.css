@@ -1,0 +1,49 @@
+/* Geral */
+
+#main{
+    width: 1366px;
+    margin: 0 auto;
+}
+
+/* Linhas */
+
+.row{
+clear: both;
+}
+
+/* Colunas */
+
+.bloco12{
+  
+    height: 200px;
+    width: 100%;
+    float: left;
+   }
+.bloco9{
+    
+    height:400px;
+    width: 75%;
+    float: left;
+   }
+.bloco3{
+   
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+
+/* Cores */
+
+.vermelho{
+    background-color: red;
+}
+
+.laranja{
+    background-color: orange;
+}
+.verde{
+    background-color: green;
+}
+.amarelo{
+    background-color: yellow;
+}
